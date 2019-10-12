@@ -5,7 +5,7 @@ True Example
 
 ![alt_text](Palindrome_E1.PNG)
 
-
+<hr>
 
 False Example
 
